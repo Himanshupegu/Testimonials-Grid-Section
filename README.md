@@ -31,8 +31,8 @@ The challenge was to build testimonials grid section and get it looking as close
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/Himanshupegu/Testimonials-Grid-Section.git)
+- Live Site URL: [Live](https://himanshupegu.github.io/Testimonials-Grid-Section/)
 
 ## My process
 
